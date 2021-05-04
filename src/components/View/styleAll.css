@@ -1,0 +1,39 @@
+button:hover {
+    background-color: #d24711;
+    color: white;
+  }
+  
+  button{
+      border-radius: 4px;
+      background-color: #24374e;
+      color: #ffffff;
+      font-size: 15px;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+  }
+  
+tr:nth-child(even) {
+    background-color: #1a2939;
+}
+a:link {
+    text-decoration: none;
+  }
+  h5,th,td{
+     text-align: center;
+    font-size: medium;  
+    font-family: "Times New Roman", Times, serif;
+  
+  }
+  hr {
+    border: 1px solid #ffffff;
+    margin: 0%;
+    }
